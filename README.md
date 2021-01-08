@@ -3,7 +3,7 @@
 Lab Experiments for Utkarsh Singh (1RV18CS181)
 
 
-## PART - A: EXPERIMENTS  
+#### PART - A: EXPERIMENTS  
 
 Expt. 1. Implement a client and server communication using sockets programming. 
 
@@ -17,7 +17,7 @@ Expt. 6. Implementation of concurrent and iterative echo server using both conne
 
 Expt. 7. Implementation of remote command execution using socket system calls.
 
-## PART - B: EXPERIMENT
+#### PART - B: EXPERIMENT
 
 Note: The above experiments shall be conducted using C / C++ on Linux Operating System.  PART – B: SIMULATION 
 1. Setup an IEEE 802.3 network with a) hub b) switch c) Hierarchy of switch. Apply theFTP, Telnet  applications between nodes. Vary the number of nodes. Vary the bandwidth,queue size and observe  the packet drop probability.  
