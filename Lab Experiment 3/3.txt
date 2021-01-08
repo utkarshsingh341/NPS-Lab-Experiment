@@ -1,1 +1,1 @@
-Write a program to implement error detection and Correction concept using Checksum and  Hamming code.  
+Write a program to implement error detection and Correction concept using Hamming code and Checksum. 
